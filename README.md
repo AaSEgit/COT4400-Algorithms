@@ -4,6 +4,6 @@
  Binary Search - O(nlogn)
  Greatest Common Divisor (Euclid's Algorithm) - O(logn)
  Sieve of Eratosthenes - O(nlog(logn))
- Insertion Sort
- Quick Sort
- Selection Sort
+ Insertion Sort - O(n^2)
+ Quick Sort - O(n^2)
+ Selection Sort - O(n^2)
